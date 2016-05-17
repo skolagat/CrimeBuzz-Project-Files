@@ -1,6 +1,6 @@
 CrimeBuzz
 
-Event: LinkedIn Intern Hackday'15 Team Name: Raising voices Members: Kanika Kumar Aishvarya Krishnan Anmol Rajpurohit Samatha Kolagatla
+Event: LinkedIn Intern Hackday'15 Team Name: Raising voices Members: Kanika Kumar Aishvarya Krishnan Anmol Rajpurohit Samatha K
 
 Problem Statement: How many times have you felt unsafe getting back to home late night? Often especially women feel unsafe when they are visting strange and new places. And many crimes such as sexual assault or harrasssment go unnoiticed because we do not feel comfortable sharing.
 
